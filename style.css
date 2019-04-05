@@ -1,0 +1,45 @@
+#skills div{
+    height:35px;width:35px;
+    display:inline-block
+}
+
+#portfolio div{
+    border-width:5px;height:35px;width:35px;display:block
+}
+#submit {
+    height:50px;width:100px;color:green;background-color:red;font-size:28px;font-style:oblique
+}
+
+#link1 {
+    color:red;
+}
+#link2{
+    color:blue;
+}
+#link3{
+    color:yellow;
+}
+#link4{
+    color:violet;
+}
+#div1{
+    background:violet
+}
+#div2{
+    background:red
+}
+#div3{
+    background:blue
+}
+#div4{
+    background:teal
+}
+#div5{
+    background:violet;border-style:solid;border-color:tomato
+}
+#div6{
+    background:red;border-style:dotted;border-color:yellowgreen
+}
+#div7{
+    background:blue;border-style:groove;border-color:turquoise
+}
